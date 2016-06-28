@@ -1,0 +1,5 @@
+{
+  "server": false,
+  "datacenter": "%DATACENTER%",
+  "data_dir": "/var/lib/consul"
+}
